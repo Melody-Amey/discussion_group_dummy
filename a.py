@@ -1,4 +1,4 @@
-a = 'hello'
+a = 'hello2'
 print(a)
 
 b = 'world'
