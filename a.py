@@ -1,7 +1,7 @@
 a = 'hello2'
 print(a)
-
-b = 'world squash merge'
+print("This is some new stuff")
+b = 'world squash mere'
 print(b)
 
 c = a+b
